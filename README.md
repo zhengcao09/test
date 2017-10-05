@@ -1,1 +1,1 @@
-# test for a RGB color game
+# test
